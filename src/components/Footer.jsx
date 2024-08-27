@@ -48,7 +48,7 @@ const Footer = () => {
           <Heading textTransform={'uppercase'} textAlign={'center'}>
             VIDEO HUB
           </Heading>
-          <Text>All rights received by Snehal Prajapati</Text>
+          <Text>All rights reserved by Snehal Prajapati</Text>
         </VStack>
 
         <VStack w={'full'}>
